@@ -1,2 +1,2 @@
 # reactnative_dump
-Dump of all react native applications
+Dump of react native projects
