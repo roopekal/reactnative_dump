@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "610857375104",
+    "firebase_url": "https://multishop-1001d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "multishop-1001d",
+    "storage_bucket": "multishop-1001d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610857375104:android:e66338acf796385bb55d65",
+        "android_client_info": {
+          "package_name": "com.roopekal.multiShopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610857375104-4t7lm62pmstpcsps8hcqd530shn1vlbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLUSWYPj_xdl_Ol7dCqBa6F0nVWtlTpT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610857375104-4t7lm62pmstpcsps8hcqd530shn1vlbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
